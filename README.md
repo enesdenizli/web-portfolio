@@ -1,5 +1,3 @@
-# WASSUP MY MAN YOU SUCCESSFULLY COMMITTED AND PUSHED FROM YOUR LAPTOP IDE AND PULLED TO DIGITALOCEAN!
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
